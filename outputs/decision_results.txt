@@ -1,0 +1,26 @@
+=== Japan-to-UK Resale Decision Model ===
+
+Canon EF 50mm f/1.8 STM
+Japan average: JPY 11,281
+UK sold average: GBP 64.02
+Estimated profit: JPY -2,357
+Max buy price for target profit: JPY 6,924
+Decision: SKIP
+
+Pikachu Master Ball Mirror SV2a 025/165 raw
+Japan average: JPY 30,500
+UK sold average: GBP 155.12
+Estimated profit: JPY -5,177
+Max buy price for target profit: JPY 23,322
+Decision: SKIP
+
+Polo Ralph Lauren Quarter Zip
+Japan average: JPY 6,020
+UK sold average: GBP 28.12
+Estimated profit: JPY -3,559
+Max buy price for target profit: JPY 461
+Decision: SKIP
+
+IMPORTANT: Import VAT, customs duties, returns,
+and other unverified costs are excluded.
+BUY is a preliminary screening result, not approval to purchase.

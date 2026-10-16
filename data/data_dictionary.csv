@@ -1,0 +1,16 @@
+field,type,definition
+observation_id,string,Unique row ID
+product_id,string,Foreign key to products.csv
+category,string,One of three research categories
+product,string,Product specification / condition grouping
+market,string,Japan or UK
+platform,string,Marketplace name
+listing_price,number,Observed listed amount; not assumed realized seller revenue
+currency,string,JPY or GBP
+price_type,string,"asking, sold_listing_display, verified_transaction, etc."
+listing_status,string,Status shown at observation
+condition,string,Seller described condition
+source_url,url,Direct source link
+observation_date,date,Date source was recorded
+source_checked,boolean text,"Yes means previously reported checked, not independently revalidated here"
+notes,string,Limitations / qualifiers

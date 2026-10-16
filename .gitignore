@@ -1,0 +1,44 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/
+
+# Logs
+*.log
+
+# Local backups and temporary files
+backups/
+*.backup
+README_old.md
+
+# Historical data snapshots
+data/*_before_*.csv
+data/*_backup.csv
+
+# Legacy analysis outputs
+outputs/category_profit_comparison.*
+outputs/purchase_sensitivity.*
+outputs/resale_profit_scenarios.png
+outputs/resale_scenarios.csv
+outputs/vinted_price_comparison.png
+
+# Intermediate data collection files
+data/new_sold_listings.csv
+data/ralph_lauren_sold_candidates.csv
